@@ -70,7 +70,6 @@ h1, h2, h3, h4 {
     background-color: #828282;
 }
 
-
 .post h2 a:hover {
     color: #00a3af;
 }
@@ -80,3 +79,10 @@ h1, h2, h3, h4 {
     background-color: transparent;
 }
 
+.edit a {
+    color: #00a3af;
+}
+
+.input p{
+    font-weight: bold;
+}
